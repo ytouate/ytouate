@@ -12,7 +12,8 @@
   <li>
     <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
   </li>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytouate&layout=compact&theme=vision-friendlydark(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ytouate=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </ul>
 <!-- <h2> How to reach me : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
  <p id="badges" align="center">

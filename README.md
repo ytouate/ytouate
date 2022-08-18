@@ -8,11 +8,12 @@
 - 🌱 I’m currently learning Web Development (Django, React)
 - 💬 C, Python, Guru
 
-
-<h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytouate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<ul>
+  <li>
+    <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+  </li>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytouate&layout=compact&theme=vision-friendly-dark)]      (https://github.com/anuraghazra/github-readme-stats)
+</ul>
 <!-- <h2> How to reach me : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
  <p id="badges" align="center">
   <a href="your-linkedin-URL">

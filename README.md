@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
 
-<h2> Hi, I'm Youssef Touate! <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Youssef Touate!</h2>
 
 - 🔭 Student at 1337 School [42 Network].
 - 🌱 I’m currently learning Web Development (Django, React)

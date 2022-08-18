@@ -8,11 +8,7 @@
 - 🌱 I’m currently learning Web Development (Django, React)
 - 💬 C, Python, Guru
 
-<ul>
-  <li>
-    <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
-  </li>
-</ul>
+<h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ytouate=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 

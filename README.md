@@ -10,10 +10,7 @@
 
 
 <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
-
-<div class="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytouate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
 <!-- <h2> How to reach me : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
  <p id="badges" align="center">
   <a href="your-linkedin-URL">

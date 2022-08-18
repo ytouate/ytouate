@@ -9,10 +9,14 @@
 - 💬 C, Python, Guru
 
 <ul>
-<h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+  <li>
+    <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+  </li>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zqadiri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zqadiri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ytouate&style=flat-square&color=blue" alt=""/>

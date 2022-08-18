@@ -12,9 +12,10 @@
   <li>
     <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
   </li>
+</ul>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ytouate=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-</ul>
+
 <!-- <h2> How to reach me : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
  <p id="badges" align="center">
   <a href="your-linkedin-URL">

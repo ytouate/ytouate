@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning Web Development (Django, React)
 - 💬 C, Python, Guru
 
+<ul>
 <h2> My Stats : <img src="https://media2.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="50"></h2>
+</ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zqadiri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

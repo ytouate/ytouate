@@ -15,4 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytouate&show_icons=true&locale=en" alt="ytouate" /></p>
 <hr>
 
-[![ytouate's 42 stats](https://badge.mediaplus.ma/greenbinary/ytouate)](https://github.com/oakoudad/badge42)
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ytouate" alt="ytouate's 42 stats" /></a>

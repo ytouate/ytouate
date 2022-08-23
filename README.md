@@ -12,3 +12,5 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ytouate&show_icons=true&locale=en&layout=compact" alt="ytouate" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ytouate&show_icons=true&locale=en" alt="ytouate" /></p>
+<hr>
+[![ytouate's 42 stats](https://badge.mediaplus.ma/greenbinary/ytouate)](https://github.com/oakoudad/badge42)

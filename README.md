@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Touate Youssef</h1>
-<h3 align="center">A passionate Computer Science Student from Morocco at 1337 Benguerir</h3>
+<h3 align="center">A passionate Computer Science Student at 1337 Benguerir (Morocco)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

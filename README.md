@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Touate Youssef</h1>
 <h3 align="center">A passionate Computer Science Student at 1337 Benguerir (Morocco)</h3>
-<p>🌱 I’m currently learning C++</p>
+<h4>🌱 I’m currently learning C++</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/touate-youssef-9a304a224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touate-youssef" height="30" width="40" /></a>

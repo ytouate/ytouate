@@ -16,9 +16,4 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/touate-youssef-9a304a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touate-youssef" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16371384/touate-youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="touate-youssef" height="30" width="40" /></a>
-<a href="https://leetcode.com/TouateYoussef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="touateyoussef" height="30" width="40" /></a>
-</p>
-
+<a href="https://www.linkedin.com/in/mohamed-elkhayate-4535a91b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

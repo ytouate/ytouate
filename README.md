@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Touate Youssef</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-- 🔭 I’m currently a Student at **1337**
+- 🔭 I’m currently a Student at **1337 Benguerir**
 
 - 🌱 I’m currently Learning **Backend development**
 
-- 👨‍💻 I mostly Code in **C/C++**
+- 👨‍💻 I mostly Code in **C/C++ and Python**
 
 
 

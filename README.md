@@ -16,4 +16,6 @@
 
 
 <h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/touate-youssef-9a304a224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ </p>

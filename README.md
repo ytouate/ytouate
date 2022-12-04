@@ -3,11 +3,8 @@
 
 
 - 🔭 I’m currently a Student at **1337 Benguerir**
-- 
 - 🌱 I’m currently Deep diving in **C++**
-- 
 - 👨‍💻 I mostly Code in **C/C++ and Python**
-- 
 - 👾 am currently working on **reimplementing some of the C++ containers**
 
 <h3 align="center">Languages and Tools:</h3>

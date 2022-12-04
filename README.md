@@ -3,8 +3,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/m0san/m0san/blob/master/coding.gif?raw=true" width="408" height="318" />
 - 🔭 I’m currently a Student at **1337 Benguerir**
+- 
 - 🌱 I’m currently Deep diving in **C++**
+- 
 - 👨‍💻 I mostly Code in **C/C++ and Python**
+- 
 - 👾 am currently working on **reimplementing some of the C++ containers**
 
 <h3 align="center">Languages and Tools:</h3>

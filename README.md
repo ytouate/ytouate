@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Touate Youssef</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-
+<img align="right" alt="GIF" src="https://github.com/m0san/m0san/blob/master/coding.gif?raw=true" width="408" height="318" />
+<p align="left"></p>
 - 🔭 I’m currently a Student at **1337 Benguerir**
 - 🌱 I’m currently Deep diving in **C++**
 - 👨‍💻 I mostly Code in **C/C++ and Python**
